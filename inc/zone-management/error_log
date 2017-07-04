@@ -1,0 +1,19 @@
+[09-Apr-2016 07:11:46 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[09-Apr-2016 07:12:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[09-Apr-2016 07:12:26 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[09-Apr-2016 07:12:28 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[09-Apr-2016 07:12:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[03-May-2016 09:04:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 19
+[03-May-2016 09:55:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 26
+[03-May-2016 10:17:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 20
+[03-May-2016 10:30:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 20
+[03-May-2016 12:33:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 26
+[04-May-2016 05:04:25 UTC] PHP Fatal error:  Call to undefined function unique() in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 35
+[06-May-2016 06:31:40 UTC] PHP Fatal error:  Call to undefined function prnit_r() in /home/pccdevenv/public_html/app/inc/zone-management/zone-list-func.php on line 32
+[23-May-2016 11:02:17 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[23-May-2016 11:03:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[23-May-2016 11:03:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[23-May-2016 11:05:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[23-May-2016 11:05:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[23-May-2016 11:07:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 17
+[23-May-2016 11:13:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-option-list.php on line 8

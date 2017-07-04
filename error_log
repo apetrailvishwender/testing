@@ -1,0 +1,153 @@
+[09-Mar-2016 07:14:45 UTC] PHP Fatal error:  Class 'ShopifyClient' not found in /home/sipldemo/public_html/podiumcatchers/app/index.php on line 26
+[09-Mar-2016 12:39:03 UTC] PHP Fatal error:  Class 'MySQLConnection' not found in /home/pccdevenv/public_html/app/config.php on line 36
+[09-Mar-2016 12:39:56 UTC] PHP Fatal error:  Class 'MySQLConnection' not found in /home/pccdevenv/public_html/app/config.php on line 36
+[10-Mar-2016 06:45:10 UTC] PHP Fatal error:  Class 'ShopifyClient' not found in /home/pccdevenv/public_html/app/inc/product-management/product-list.php on line 18
+[10-Mar-2016 06:45:42 UTC] PHP Fatal error:  Uncaught exception 'ShopifyCurlException' with message 'Couldn't resolve host 'https'' in /home/pccdevenv/public_html/app/lib/shopify.php:95
+Stack trace:
+#0 /home/pccdevenv/public_html/app/lib/shopify.php(58): ShopifyClient->curlHttpApiRequest('GET', 'https:///admin/...', Array, Array, Array)
+#1 /home/pccdevenv/public_html/app/inc/product-management/product-list.php(20): ShopifyClient->call('GET', '/admin/products...', Array)
+#2 /home/pccdevenv/public_html/app/index.php(24): include('/home/pccdevenv...')
+#3 {main}
+  thrown in /home/pccdevenv/public_html/app/lib/shopify.php on line 95
+[10-Mar-2016 06:47:21 UTC] PHP Fatal error:  Uncaught exception 'ShopifyCurlException' with message 'Couldn't resolve host 'https'' in /home/pccdevenv/public_html/app/lib/shopify.php:95
+Stack trace:
+#0 /home/pccdevenv/public_html/app/lib/shopify.php(58): ShopifyClient->curlHttpApiRequest('GET', 'https:///admin/...', Array, Array, Array)
+#1 /home/pccdevenv/public_html/app/inc/product-management/product-list.php(20): ShopifyClient->call('GET', '/admin/products...', Array)
+#2 /home/pccdevenv/public_html/app/index.php(24): include('/home/pccdevenv...')
+#3 {main}
+  thrown in /home/pccdevenv/public_html/app/lib/shopify.php on line 95
+[10-Mar-2016 06:48:01 UTC] PHP Fatal error:  Class 'ShopifyClient' not found in /home/pccdevenv/public_html/app/inc/product-management/product-list.php on line 18
+[10-Mar-2016 06:48:28 UTC] PHP Fatal error:  Class 'ShopifyClient' not found in /home/pccdevenv/public_html/app/inc/product-management/product-list.php on line 17
+[23-Mar-2016 11:25:21 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[23-Mar-2016 11:26:57 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[23-Mar-2016 11:27:00 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[23-Mar-2016 11:27:18 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[23-Mar-2016 11:27:35 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[23-Mar-2016 11:28:22 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[23-Mar-2016 11:28:26 UTC] PHP Fatal error:  Call to undefined function int() in /home/pccdevenv/public_html/app/totalzones.php on line 6
+[25-Mar-2016 12:11:13 UTC] PHP Fatal error:  Call to undefined function sanitize_text_field() in /home/pccdevenv/public_html/app/route-finder-func.php on line 17
+[04-Apr-2016 09:08:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 36
+[04-Apr-2016 09:08:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 36
+[04-Apr-2016 09:08:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 36
+[04-Apr-2016 09:08:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 36
+[04-Apr-2016 09:28:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/store-management/store-list.php:30
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/store-management/store-list.php(30): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(19): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/store-management/store-list.php on line 30
+[04-Apr-2016 09:28:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/store-management/store-list.php:30
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/store-management/store-list.php(30): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(19): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/store-management/store-list.php on line 30
+[04-Apr-2016 11:10:46 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/pccdevenv/public_html/app/inc/driver-management/driver-list.php on line 18
+[03-May-2016 12:09:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:09:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:10:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:11:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:11:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:11:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:12:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:12:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:12:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:12:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[03-May-2016 12:12:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:21:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:21:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:22:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:22:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:32:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:32:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31
+[06-May-2016 05:32:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php:31
+Stack trace:
+#0 /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php(31): SimpleXMLElement->__construct('')
+#1 /home/pccdevenv/public_html/app/index.php(16): include('/home/pccdevenv...')
+#2 {main}
+  thrown in /home/pccdevenv/public_html/app/inc/zone-management/zone-list.php on line 31

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Store Finder Map</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Layer 1</name>
+			<Placemark>
+				<name>Zone 1
+</name>
+				<styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>72.7773857,21.2141001,0.0 72.7668285,21.2025776,0.0 72.7718925,21.190173800000004,0.0 72.7933502,21.183451400000003,0.0 72.7978134,21.1931348,0.0 72.7773857,21.2141001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Zone 2
+</name>
+				<styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>72.7773857,21.2141001,0.0 72.7827072,21.208899,0.0 72.7925777,21.2122597,0.0 72.7996159,21.219701,0.0 72.7951527,21.2259417,0.0 72.7827072,21.2338623,0.0 72.7789307,21.229062,0.0 72.7784157,21.2221013,0.0 72.7773857,21.2141001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Zone 3
+</name>
+				<styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>72.7827072,21.208899,0.0 72.7978134,21.1931348,0.0 72.8119755,21.1994567,0.0 72.7996159,21.219701,0.0 72.7925777,21.2122597,0.0 72.7827072,21.208899,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Zone 4
+</name>
+				<styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>72.7827072,21.2338623,0.0 72.7633095,21.237142400000003,0.0 72.756958,21.2258617,0.0 72.7500916,21.215460300000004,0.0 72.7668285,21.2025776,0.0 72.7773857,21.2141001,0.0 72.7791023,21.2297821,0.0 72.7827072,21.2338623,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Zone 5
+</name>
+				<styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>72.7933502,21.183451400000003,0.0 72.7809906,21.1748078,0.0 72.7754974,21.170966,0.0 72.7911186,21.1584796,0.0 72.8184128,21.1624818,0.0 72.8227043,21.174647699999998,0.0 72.8082848,21.1852121,0.0 72.7933502,21.183451400000003,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Zone 6
+</name>
+				<styleUrl>#poly-000000-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>72.7933502,21.183451400000003,0.0 72.7962685,21.1839316,0.0 72.8070831,21.1911342,0.0 72.8118896,21.194015099999998,0.0 72.8119755,21.1994567,0.0 72.7978134,21.1931348,0.0 72.7933502,21.183451400000003,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Directions from 15, Narotam Nagar, Surat, Gujarat 395009, India to 10, Shaligram Society, Surdas Nagar, Rander, Surat, Gujarat 395005, India</name>
+			<Placemark>
+				<name>Directions from 15, Narotam Nagar, Surat, Gujarat 395009, India to 10, Shaligram Society, Surdas Nagar, Rander, Surat, Gujarat 395005, India</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>72.79524,21.20152,0.0 72.7952,21.20179,0.0 72.79512,21.20219,0.0 72.79502,21.20271,0.0 72.79521000000001,21.202750000000005,0.0 72.79569,21.20285,0.0 72.79577,21.20286,0.0 72.79585,21.20287,0.0 72.79592,21.20287,0.0 72.79616000000001,21.20288,0.0 72.7964,21.20286,0.0 72.79661,21.20285,0.0 72.79667,21.20284,0.0 72.79689,21.20281,0.0 72.79691,21.20281,0.0 72.79706,21.20279,0.0 72.79738,21.20277,0.0 72.79738,21.20278,0.0 72.79739,21.20278,0.0 72.79739,21.20279,0.0 72.79739,21.2028,0.0 72.7974,21.2028,0.0 72.7974,21.20281,0.0 72.79741,21.20281,0.0 72.79741,21.20282,0.0 72.79742,21.20282,0.0 72.79742,21.20283,0.0 72.79743,21.20283,0.0 72.79745,21.20329,0.0 72.79745,21.20428,0.0 72.79745,21.20449,0.0 72.79742,21.20503,0.0 72.79742,21.205070000000003,0.0 72.79741,21.20513,0.0 72.79735,21.20588,0.0 72.79735,21.20592,0.0 72.79733,21.206110000000002,0.0 72.79734,21.20643,0.0 72.79735,21.20651,0.0 72.79737,21.20656,0.0 72.7974,21.20662,0.0 72.79745,21.20672,0.0 72.79752,21.20679,0.0 72.79759,21.20672,0.0 72.79803,21.20627,0.0 72.79817,21.20612,0.0 72.79837,21.20624,0.0 72.79855,21.20634,0.0 72.79857,21.20635,0.0 72.7986,21.20637,0.0 72.79862,21.20639,0.0 72.79863,21.2064,0.0 72.79864,21.20643,0.0 72.79865,21.20646,0.0 72.79867,21.20654,0.0 72.79872,21.20684,0.0 72.79882,21.20731,0.0 72.79889,21.207300000000004,0.0 72.79912,21.20731,0.0 72.79933,21.20732,0.0 72.79964,21.20733,0.0 72.80058000000001,21.20733,0.0 72.80061,21.20734,0.0 72.80063,21.20736,0.0 72.80064,21.20736,0.0 72.80066,21.20743,0.0 72.80074,21.20815,0.0 72.80071,21.20817,0.0 72.80069,21.208190000000002,0.0 72.80068,21.20822,0.0 72.80067000000001,21.20824,0.0 72.80067000000001,21.20827,0.0 72.80077,21.2088,0.0 72.80077,21.20884,0.0 72.80077,21.20886,0.0 72.80075,21.20888,0.0 72.80071,21.20889,0.0 72.80065,21.20889,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>15, Narotam Nagar, Surat, Gujarat 395009, India</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>72.7952356,21.2015178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10, Shaligram Society, Surdas Nagar, Rander, Surat, Gujarat 395005, India</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>72.8006542,21.2088908,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-000000-1-76-nodesc-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-000000-1-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-000000-1-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-000000-1-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-000000-1-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

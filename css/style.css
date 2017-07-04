@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0;
+	padding:0;
+	margin:0 auto;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#036;
+}
+body {
+    background-color: #fff;
+}
+fieldset {   
+margin: 1.5em 0 0 0;   
+padding: 0; 
+border: 1px solid #ededed; 
+}  
+legend {   
+margin-left: 1em;
+color: #000000;
+font-weight: bold;
+background-color: #F3F0F0;
+padding: 5px;
+}  
+fieldset ol {   
+padding: 1em 1em 0 1em;   
+list-style: none;  
+}  
+fieldset li {   
+padding-bottom: 1em;  
+}  
+fieldset.submit {   
+border-style: none;  
+}
+span {
+	color:#033;
+}
+.stapp-title {
+	text-align: center;
+}
+table.dataTable {
+	border:1px solid;
+}
+table.dataTable td.sorting_1{ background-color: white; border:1px solid lightgrey; }
+table.dataTable tr.even { background-color: white;  border:1px solid lightgrey;}
+table.dataTable tr.odd{ background-color: lightgrey; border:1px solid lightgrey; }
+table.dataTable td.even { background-color: white;  border:1px solid lightgrey;}
+table.dataTable td.odd { background-color: lightgrey; border:1px solid lightgrey; }
+.dataTables_filter {
+	padding: 0 0 10px;
+	position: relative;
+}
+.custom-form > label {
+	position: relative;
+    width: 100%;
+}
+.custom-form > input {
+	position: relative;
+    width: 50%;
+}
+label.error {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border-radius: 0;
+    color: #ff0000 !important;
+    font-size: 11px;
+    left: 0;
+    margin: 0 !important;
+    padding: 0;
+    position: relative;
+}
+.main-div {
+	position : relative;
+	top: 15px;
+}
+.success{
+	color: #4F8A10;
+    background-color: #DFF2BF;
+    background-image: url('../images/success.png'); 
+    border: 1px solid;
+    margin: 10px 0px;
+    padding: 15px 10px 15px 60px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+}
+}
